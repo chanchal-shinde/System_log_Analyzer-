@@ -1,0 +1,14 @@
+
+
+----------------
+ SYSTEM LOG REPORT 
+ ---------------
+
+Total log entries:- 5
+
+->ERROR Message :- 2 
+->WARNING Message :- 1 
+->INFO Message :- 2 
+
+Repeated mesaage : 
+ERROR Wrong password ocuured 2 times
